@@ -1,5 +1,14 @@
-- uses: DavidAnson/markdownlint-cli2-action@v11
-  with:
-    globs: |
-      *.md
-      !test/*.md
+name: Markdown Lint
+
+on: [push, pull_request]
+
+jobs: 
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4.2.2
+      - uses: DavidAnson/markdownlint-cli2-action@v11
+        with:
+          globs: |
+            *.md
+            !test/*.md
