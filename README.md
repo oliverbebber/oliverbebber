@@ -26,19 +26,19 @@ Here are some ideas to get you started:
 ## 🔧 Current Projects
 
 - **🐈 [Finding Phoenix](https://findingphe.com)**  
-  A tech-driven search for my missing cat, Phoenix - combining data, cameras, and community support.
+  A tech-driven search for my missing cat, Phoenix.
 
 - **🐾📍 [PawPoint Directory](https://github.com/oliverbebber/PawPoint-Directory)**  
-  A directory of vets and animal related services to assist pet owners, rescuers, and rehabbers.
+  A directory of vets and animal related services.
 
 ---
 
 ## 🧠 Interests
 
-- Cybersecurity & ethical hacking  
-- Digital rights & responsible AI  
-- Community-centered technology  
-- Automation, scripting & open data  
+- Cybersecurity & ethical hacking
+- Digital rights & responsible AI
+- Community-centered technology
+- Automation, scripting & open data
 - Real-world problem-solving with tech
 
 ---
@@ -49,10 +49,12 @@ Here are some ideas to get you started:
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1C9ACE?style=flat&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/-Nmap-8DDBE2?style=flat&logo=nmap&logoColor=black)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-CE3C3E?style=flat&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF7A00?style=flat&logo=burp-suite&logoColor=white)
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
