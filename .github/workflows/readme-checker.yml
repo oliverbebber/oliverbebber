@@ -1,0 +1,5 @@
+- uses: DavidAnson/markdownlint-cli2-action@v11
+  with:
+    globs: |
+      *.md
+      !test/*.md
