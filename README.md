@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 👋 Hey y'all, I'm Oliver
 
 🎓 Cybersecurity & Information Assurance student at WGU  
-🔐 Certified in CompTIA A+, Network+, Security+, Project+, (ISC)² CC & SSCP, ITILv4, and LPI Linux Essentials  
+🔐 Certified in CompTIA A+, Net+, Sec+, Project+, (ISC)² CC & SSCP, and more 
 💻 Passionate about ethical tech, privacy, open-source, and digital advocacy  
 🐾 Building tools and resources to support missing pet recovery
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   A tech-driven search for my missing cat, Phoenix - combining data, cameras, and community support.
 
 - **🐾📍 [PawPoint Directory](https://github.com/oliverbebber/PawPoint-Directory)**  
-  A directory of vets and animal related services to assist pet owners, rescuers, and rehabbers in finding these resources.
+  A directory of vets and animal related services to assist pet owners, rescuers, and rehabbers.
 
 ---
 
