@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 👋 Hey y'all, I'm Oliver
 
 🎓 Cybersecurity & Information Assurance student at WGU  
-🔐 Certified in CompTIA A+, Net+, Sec+, Project+, (ISC)² CC & SSCP, and more 
+🔐 Certified in CompTIA A+, Net+, Sec+, Project+, (ISC)² CC & SSCP, and more  
 💻 Passionate about ethical tech, privacy, open-source, and digital advocacy  
 🐾 Building tools and resources to support missing pet recovery
 
