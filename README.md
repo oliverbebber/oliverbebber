@@ -1,6 +1,6 @@
 # 👋 Hey y'all, I'm Oliver
 
-🎓 Recent WGU Cybersecurity & Information Assurance graduate! Class of 2026 
+🎓 Recent WGU Cybersecurity & Information Assurance graduate! Class of 2026   
 🔐 Certified in CompTIA A+, Net+, Sec+, Project+, (ISC)² CC & SSCP, and more  
 💻 Passionate about ethical tech, privacy, open-source, and digital advocacy  
 🐾 Building tools and resources to support missing pet recovery
